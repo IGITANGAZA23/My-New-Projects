@@ -99,6 +99,7 @@ $email= $_POST['email'] ?? 'N/A';
 $telephone= $_POST['telephone'] ?? 'N/A';
 $school_name= $_POST['school'] ?? 'N/A';
 $class= $_POST['class'] ?? 'N/A';
+$comment= $_POST['comment'] ?? 'N/A';
 
 echo "<p><b>The Students Info are:</b></p>
           <table border='1' cellspacing='0'>
